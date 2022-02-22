@@ -10,7 +10,8 @@ namespace gitTest1
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("GitTest");
+            Console.ReadKey();
         }
     }
 }
